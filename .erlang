@@ -1,0 +1,1 @@
+io:format("I'm in erlang exercises folder.~n").
